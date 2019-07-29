@@ -1,6 +1,6 @@
 # Set PagerDuty Base Notification Rules
 
-This script allows you to set a base notification rules for a team in [PagerDuty](https://www.pagerduty.com/). It is based on the default team rules used by [7-Eleven, Inc.](https://www.7-eleven.com/).
+This script allows you to set a base notification rules for a team in [PagerDuty](https://www.pagerduty.com/). It is based on the default team rules used by [7-Eleven, Inc](https://www.7-eleven.com/).
 
 ## Prerequisites
 
